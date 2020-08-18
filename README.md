@@ -3,5 +3,26 @@
 ### Introduction
 Python script that searches for reddit comments with particular keywords in particular subreddits. It searches through given JSON files which anyone can download online.
 
+### Data Formatting
+
+<strong align="center">Formatting</strong>
+
+	Keyword: {Selected Keyword}		Comments: {Comment Count}
+
+	Author: {Author Name}			Upvotes: {Upvote Count}
+
+	{			Their Comment				}
+
+	-- End of Comment --
+
+	Author: {Author Name}			Upvotes: {Upvote Count}
+
+	{			Their Comment				}
+
+	-- End of Comment --
+					•••
 **Note:**
-This project is just to help out a friend with his thesis
+Formatted as requested, with the example once again shown in the data folder
+Project built to help friend with thesis
+
+

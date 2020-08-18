@@ -1,0 +1,19 @@
+Individual subreddits will have their own files, with all the data separated they way you wanted in here.
+
+						File Format:
+
+Keyword: {Selected Keyword}		Comments: {Comment Count}
+
+Author: {Author Name}			Upvotes: {Upvote Count}
+
+		{			Their Comment			}
+
+--End of Comment--
+
+Author: {Author Name}			Upvotes: {Upvote Count}
+
+		{			Their Comment			}
+
+--End of Comment--
+						•••
+
