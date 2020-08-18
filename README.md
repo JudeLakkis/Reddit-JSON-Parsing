@@ -5,7 +5,7 @@ Python script that searches for reddit comments with particular keywords in part
 
 ### Data Formatting
 
-<strong align="center">Formatting</strong>
+<strong align="center">Format</strong>
 
 	Keyword: {Selected Keyword}		Comments: {Comment Count}
 
