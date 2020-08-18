@@ -1,4 +1,4 @@
-Individual subreddits will have their own files, with all the data separated they way you wanted in here.
+Individual subreddits will have their own files, with all the data separated the way you wanted in here.
 
 						File Format:
 
